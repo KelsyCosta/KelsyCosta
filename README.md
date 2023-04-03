@@ -1,4 +1,4 @@
-## Olá, eu sou a Kelly e este é um ambiente amigavel :) 
+## Olá, eu sou a Kelly e este é um ambiente amigável :) 
 
 - Acabei de chegar, sinta-se livre para me ajudar
 - Cursando ADS em Unicesumar EAD
