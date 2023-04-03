@@ -1,9 +1,9 @@
 ## Olá, eu sou a Kelly e este é um ambiente amigavel :) 
 
 - Acabei de chegar, sinta-se livre para me ajudar
-- Neste momento, estou estudando C#
+- Cursando ADS em Unicesumar EAD
+- Neste momento, estou estudando C# 
 - My English is under constrution, you can help me with it too!
-- Meus pronomes são: Ela/Dela
 - Bom, estamos todos aqui - no GitHub e no mundo - para colaborar uns com os outros, certo? Bora!
 
 ##
