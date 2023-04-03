@@ -20,5 +20,5 @@
   <div>
     <a href="https://www.linkedin.com/in/kelly-costa-5105b8241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <img align="center">
-     <a href = "mailto:contatokelsycosta88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+     <a href = "mailto:contatokelsy.costa88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </div>
